@@ -8,7 +8,7 @@ using Xunit;
 
 namespace Kata.Snail
 {
-    public class Snail_test
+    public class Snail_Test
     {
         [Fact]
         public void Test3()
